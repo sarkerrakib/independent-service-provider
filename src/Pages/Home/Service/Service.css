@@ -1,0 +1,15 @@
+.service{
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    padding-bottom: 15px;
+    text-align: center;
+    padding: 20px;
+}
+.package{
+    font-size: 15px;
+    font-weight: 500;
+}
+.btnBook{
+    background-color: #A7D4D6;
+    font-weight: 500;
+}

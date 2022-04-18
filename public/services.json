@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "OutDoor Photography",
+        "price": "800",
+        "description": "Nature photography is a wide range of photography taken outdoors and devoted to displaying natural elements such as landscapes, wildlife, plants, and close-ups of natural scenes and textures.",
+        "img": "https://www.pennyblacktemplates.com/demo/ws/photography/preview/images/80x80x1.png"
+    },
+    {
+        "id": 2,
+        "name": "Wedding Photography",
+        "price": "1500",
+        "description": "Traditional photography captures events as they are supposed to. The beauty of candid wedding photography lies in the natural reactions of the people. It clicks people in their best emotions and brings out the feelings.",
+        "img": "https://www.pennyblacktemplates.com/demo/ws/photography/preview/images/80x80x2.png"
+    },
+    {
+        "id": 3,
+        "name": "Drone Photography",
+        "price": "1000",
+        "description": "Drone photography has exploded in popularity over the last few years. Not so long ago it was only possible to photograph aerial images from aircraft or hot air balloons but, with the emergence of affordable consumer drones.",
+        "img": "https://www.pennyblacktemplates.com/demo/ws/photography/preview/images/80x80x3.png"
+    },
+    {
+        "id": 4,
+        "name": "Virtual Reality",
+        "price": "3800",
+        "description": "Virtual reality is a technology that simulates vision to end up with a 3D environment in which a user appears to be immersed while browsing through it or experiencing it. The 3D environment is then controlled.",
+        "img": "https://www.pennyblacktemplates.com/demo/ws/photography/preview/images/80x80x4.png"
+    },
+    {
+        "id": 5,
+        "name": "Photo Restoration",
+        "price": "1000",
+        "description": "If the photograph is heavily damaged, very old, or extremely delicate, consider having the photo professionally restored. Professionals can not only restore photographs that have been ripped, stained.",
+        "img": "https://www.pennyblacktemplates.com/demo/ws/photography/preview/images/80x80x5.png"
+    },
+    {
+        "id": 6,
+        "name": "Commercial Videography",
+        "price": "3000",
+        "description": "A commercial video production is a short-form video that briefly describes your product, service or brand promise. Their intent is to build up brand loyalty and inspire a call to action. The lines have blurred for commercial distribution.",
+        "img": "https://www.pennyblacktemplates.com/demo/ws/photography/preview/images/80x80x6.png"
+    }
+]
